@@ -1,3 +1,7 @@
+To duplicate a repository without forking it, you can run a special clone command, then mirror-push to the new repository.
+Before you can duplicate a repository and push to your new copy, or mirror, of the repository, you must create the new repository on GitHub. In these examples, exampleuser/new-repository or exampleuser/mirrored are the mirrors.
+https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository
+
 # 스무디 한 잔 마시며 끝내는 React Native
 
 - 부제: React Native로 실전 스마트폰 앱 만들기
